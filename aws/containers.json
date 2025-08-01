@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "Custom Azure Image",
+    "Format": "VHD",
+    "UserBucket": {
+      "S3Bucket": "my-vhd-bucket",
+      "S3Key": "custom-ubuntu.vhd"
+    }
+  }
+]
