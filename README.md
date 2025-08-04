@@ -93,7 +93,8 @@ terraform -chdir=terraform apply
 
 ## 🖼️ Architecture
 
-![Migration Architecture](diagram.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c652f0b3-5fdf-41bd-b8d9-38bda533ddce" />
+
 
 ---
 
